@@ -1,8 +1,8 @@
 ---
 ## Front matter
 title: "Отчет по лабораторной работе № 4"
-subtitle: "НММбд-03-22"
-author: "Толстых Максим Алексеевич"
+subtitle: "НКАбд-04-22"
+author: "Безнощук Владимир Юрьевич"
 
 ## Generic otions
 lang: ru-RU
